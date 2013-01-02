@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" 
+        id="youhonest-opera"
+        version="0.0.1">
+    <name short="Youhonest" xml:lang="en">Youhonest</name>
+    <name short="Youhonest" xml:lang="ru">Youhonest</name>
+    <description xml:lang="en">Youhonest adds "dislike" buttons</description>
+    <description xml:lang="ru">Youhonest добавляет кнопки "не нравится"</description>
+    <author href="http://dmitriy-tarasov.ru">Dmitry Tarasov</author>
+    <icon src="images/icon_48.png" />
+    <icon src="images/icon_16.png" width="16" height="16" />
+
+    <access origin="*" />
+</widget>
